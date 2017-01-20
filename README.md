@@ -1,7 +1,8 @@
 # icecreamPCA
 
 Created for the Women in Data Science ATX meetup, 9/29/16.  This workshop is
-focused on exploring dimensionality reduction through PCA and SVD.
+focused on exploring dimensionality reduction through PCA and SVD.  Presented by 
+Randi Ludwig and Julia Galstad.
 
 The associated slide deck is found at:
 http://docs.google.com/presentation/d/1yUHj71GrG4FHMxnr7OGPNkh84fENkzngdVlxSIixYLs/
